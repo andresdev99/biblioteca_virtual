@@ -1,0 +1,10 @@
+.title {
+    margin-top: 50px;
+    margin-left: 490px;
+}
+
+[type],
+label {
+    margin-left: 350px;
+    width: 450px;
+}

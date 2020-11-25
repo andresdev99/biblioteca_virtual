@@ -1,0 +1,28 @@
+body {
+  background-color: #c2c2c2;
+}
+
+.navbar-custom {
+  background-color: #ffffff;
+}
+
+.custom-link {
+  color: #000000;
+  margin: 3px;
+}
+
+.custom-link:hover {
+  color: #000000;
+}
+
+.button {
+  background-color: #4e4e4e;
+  border: none;
+  color: white;
+  padding: 10px 490px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
